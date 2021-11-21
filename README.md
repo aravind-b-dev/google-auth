@@ -1,6 +1,9 @@
 # google-auth
 Implement Google sign in in flutter app.
 
+flutter pub get
+flutter run
+
 
 ![Screenshot_2021-11-21-18-54-40-11_e00698e806b3d86ae2927ddf430ec5b4](https://user-images.githubusercontent.com/73890321/142764695-6d35b45c-e4b9-4bdd-9898-472ef25708b7.jpg)
 
