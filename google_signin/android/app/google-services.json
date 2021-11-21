@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833138674717",
+    "project_id": "avodha-8abc7",
+    "storage_bucket": "avodha-8abc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833138674717:android:d0e816c216f24258734af4",
+        "android_client_info": {
+          "package_name": "com.aravind.google_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833138674717-p7oubf26u9tq4vn8d7qkmr14v012c7fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aravind.google_signin",
+            "certificate_hash": "55d19bed13b5c7a5383fcd9fb09dd6e3a1474357"
+          }
+        },
+        {
+          "client_id": "833138674717-81fro9jluskljmmeq5dcv4oeolel64lt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-_zydiHyTo16LSUu0g9zbGsTt9DVniv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833138674717-81fro9jluskljmmeq5dcv4oeolel64lt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
