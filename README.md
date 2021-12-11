@@ -3,7 +3,7 @@ Implement Google sign in in flutter app.
 
 package:
 
-google_sign_in : ^5.0.4
+- google_sign_in : ^5.0.4
 
 flutter pub get
 
